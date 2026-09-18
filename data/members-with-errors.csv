@@ -1,0 +1,10 @@
+type,id,name,location,phone,email,gender,dob,startDate,attendance,attendanceThisCycle,loyaltyPoints,active,extra1,extra2,extra3,extra4
+REGULAR,1001,Kirtan Kunwar,Kathmandu,9841000001,kirtan.kunwar@example.com,Male,2001-04-12,2025-01-10,34,18,195.0,true,STANDARD,false,Friend referral,
+STUDENT,1002,Unknown Type Row,Lalitpur,9841000002,unknown@example.com,Female,2002-07-19,2025-02-04,28,11,140.0,true,BASIC,false,Instagram,
+REGULAR,1003,Short Row,Bhaktapur,9841000003
+REGULAR,abcd,Bad Numeric ID,Kirtipur,9841000004,bad.id@example.com,Female,2003-02-08,2025-03-22,9,2,45.0,true,BASIC,false,Walk-in,
+REGULAR,1005,Bad Date,Patan,9841000005,bad.date@example.com,Male,25-06-1998,2024-08-01,52,0,315.0,true,DELUXE,false,Corporate,
+REGULAR,1006,Bad Phone,Kathmandu,98-41,bad.phone@example.com,Female,1999-09-14,2025-04-11,17,10,85.0,true,STANDARD,false,Facebook,
+REGULAR,1007,Bad Email,Bhaktapur,9841000007,not-an-email,Male,1997-01-22,2024-10-05,6,1,30.0,true,BASIC,false,Walk-in,
+REGULAR,1001,Duplicate Of Kirtan,Kathmandu,9841000099,dup@example.com,Male,2001-04-12,2025-01-10,1,1,5.0,true,BASIC,false,None,
+PREMIUM,2001,Valid Premium Row,Kathmandu,9841000011,valid.premium@example.com,Male,1996-05-17,2024-09-12,64,22,640.0,true,Ramesh Thapa,50000.00,true,5000.00
